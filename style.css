@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: #E5E5E5;;
+}
+
+#yoga {
+  margin-top: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#email {
+  margin-top: 122px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 10px;
+  width: 321px;
+  height: 46px;
+  font-size: 17px;
+  background-color: #f6f6f6;
+  border: none;
+}
+
+#password {
+  margin-top: 21px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 10px;
+  width: 321px;
+  height: 46px;
+  font-size: 17px;
+  background-color: #f6f6f6;
+  border: none;
+}
+
+#forgot {
+  margin-top: 35px;
+  display: block;
+  margin-left: 230px;
+  color: black;
+  text-decoration: none;
+}
+
+#login {
+  display: block;
+  background-color: #323232;
+  border-radius: 10px;
+  width: 133px;
+  height: 46px;
+  color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 38px;
+  border: none;
+}
+
+#sing-up {
+  display: block;
+  margin-top: 38px;
+  text-align: center;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  color: #969696;
+}
+
+b {
+  color: #000000;
+}
+
+p {
+  margin-top: 62px;
+  display: block;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+}
+
+.acounts{
+    margin-top: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
